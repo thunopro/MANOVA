@@ -1,0 +1,40 @@
+{
+ "subs": [
+  {
+   "start": 0.7999999999999999,
+   "end": 15.56,
+   "text": "Ví dụ 6.10 là một ứng dụng thực tế. Sở Y tế và Dịch vụ xã hội bang Wisconsin hoàn trả chi phí cho các viện dưỡng lão. Một nghiên cứu muốn biết: loại hình sở hữu có ảnh hưởng đến chi phí hay không."
+  },
+  {
+   "start": 15.900000000000002,
+   "end": 37.980000000000004,
+   "text": "Nhân tố ở đây là loại hình sở hữu, với ba mức: tư nhân hai trăm bảy mươi mốt viện, phi lợi nhuận một trăm ba mươi tám, và nhà nước một trăm lẻ bảy. Tổng cộng năm trăm mười sáu quan sát. Có bốn biến chi phí, tính theo giờ trên mỗi bệnh nhân mỗi ngày: nhân công điều dưỡng, nhân công dinh dưỡng, vận hành bảo trì, và dọn phòng giặt là."
+  },
+  {
+   "start": 39.60000000000002,
+   "end": 43.944000000000024,
+   "text": "Đây là các vectơ trung bình mẫu của ba nhóm và vectơ trung bình chung."
+  },
+  {
+   "start": 44.26666666666663,
+   "end": 60.58666666666663,
+   "text": "Vì các ma trận hiệp phương sai mẫu S l có vẻ tương thích, sách gộp chúng lại để được ma trận đáp-bờ-liu theo công thức sáu bốn mốt. Ma trận bê tính từ độ lệch của các trung bình nhóm so với trung bình chung. Chỉ cần in nửa dưới, vì ma trận đối xứng."
+  },
+  {
+   "start": 62.23333333333311,
+   "end": 71.5213333333331,
+   "text": "Để kiểm định giả thuyết không có hiệu ứng sở hữu, tức là chi phí trung bình như nhau giữa ba loại hình, máy tính cho lam-đa sao bằng không phẩy bảy bảy một bốn."
+  },
+  {
+   "start": 71.86666666666633,
+   "end": 92.62666666666634,
+   "text": "Vì gờ bằng ba, ta dùng dòng cuối bảng 6.3, được thống kê bằng mười bảy phẩy sáu bảy. So với phân vị một phần trăm của ép tám, một nghìn không trăm hai mươi, xấp xỉ bằng khi bình phương tám chia tám, là hai phẩy năm một. Mười bảy phẩy sáu bảy lớn hơn nhiều, nên ta bác bỏ giả thuyết không ở mức một phần trăm."
+  },
+  {
+   "start": 92.96666666666607,
+   "end": 111.87866666666608,
+   "text": "Vì cỡ mẫu lớn, ta cũng có thể dùng xấp xỉ Bác-lét: âm năm trăm mười một phẩy năm nhân lốc của không phẩy bảy bảy một bốn, bằng một trăm ba mươi hai phẩy bảy sáu, lớn hơn khi bình phương tám ở mức một phần trăm là hai mươi phẩy không chín. Hai cách cho cùng một kết luận: chi phí trung bình khác nhau tùy loại hình sở hữu."
+  }
+ ],
+ "duration": 112.7999999999992
+}

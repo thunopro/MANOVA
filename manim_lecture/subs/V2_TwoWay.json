@@ -1,0 +1,25 @@
+{
+ "subs": [
+  {
+   "start": 0.7999999999999999,
+   "end": 11.528,
+   "text": "Mục 6.7, phần trọng tâm: có hai nhân tố cùng tác động. Mô hình thêm hiệu ứng nhân tố hai, và một số hạng mới: tương tác gam-ma."
+  },
+  {
+   "start": 11.866666666666664,
+   "end": 19.642666666666663,
+   "text": "Tương ứng, ma trận toàn phần tách thành bốn phần: nhân tố một, nhân tố hai, tương tác, và phần dư."
+  },
+  {
+   "start": 21.26666666666672,
+   "end": 33.098666666666716,
+   "text": "Tương tác là gì? Nếu các đường song song, hiệu ứng hai nhân tố chỉ cộng dồn. Nếu các đường cắt nhau, tác động của nhân tố này phụ thuộc vào nhân tố kia."
+  },
+  {
+   "start": 33.433333333333586,
+   "end": 39.961333333333585,
+   "text": "Vì vậy, quy tắc của sách là: luôn kiểm định tương tác trước, rồi mới kiểm định từng nhân tố."
+  }
+ ],
+ "duration": 40.90000000000016
+}

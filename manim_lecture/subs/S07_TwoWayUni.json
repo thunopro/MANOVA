@@ -1,0 +1,105 @@
+{
+ "subs": [
+  {
+   "start": 0.0,
+   "end": 16.008,
+   "text": "Phần bốn, nội dung chính của bài: mục 6.7, phân tích phương sai đa biến hai nhân tố. Giống như với ma-nô-va một nhân tố, sách sẽ ôn nhanh mô hình hai nhân tố hiệu ứng cố định cho một biến, rồi tổng quát hoá sang nhiều biến bằng phép tương tự."
+  },
+  {
+   "start": 18.13333333333342,
+   "end": 33.44533333333342,
+   "text": "Giả sử các phép đo được ghi nhận ở các mức khác nhau của hai nhân tố. Nhân tố một có gờ mức, nhân tố hai có bê mức. Sách không đi sâu vào thiết kế thí nghiệm, nhưng giả định các quan sát ở những tổ hợp điều kiện khác nhau là độc lập."
+  },
+  {
+   "start": 33.76666666666685,
+   "end": 44.61466666666685,
+   "text": "Ở mỗi tổ hợp trong gờ nhân bê tổ hợp mức, ta quan sát en lần độc lập. Đó là các lần lặp. Tổng cộng có gờ nhân bê nhân en quan sát."
+  },
+  {
+   "start": 44.933333333333344,
+   "end": 52.445333333333345,
+   "text": "Ta ký hiệu X l k r là quan sát thứ r, ở mức l của nhân tố một và mức k của nhân tố hai."
+  },
+  {
+   "start": 54.06666666666655,
+   "end": 65.10666666666654,
+   "text": "Mô hình hai nhân tố cho một biến viết: X l k r bằng muy, cộng tau l, cộng bê-ta k, cộng gam-ma l k, cộng e l k r."
+  },
+  {
+   "start": 65.43333333333301,
+   "end": 87.00933333333302,
+   "text": "Trong đó muy là mức chung. Tau l là hiệu ứng cố định của nhân tố một. Bê-ta k là hiệu ứng cố định của nhân tố hai. Gam-ma l k là tương tác giữa nhân tố một và nhân tố hai. Còn e l k r là các sai số độc lập, chuẩn, trung bình không, phương sai xích-ma bình phương."
+  },
+  {
+   "start": 87.33333333333294,
+   "end": 96.66933333333294,
+   "text": "Để mô hình xác định duy nhất, các ràng buộc là: tổng các tau bằng không, tổng các bê-ta bằng không, và tổng các gam-ma theo từng chỉ số cũng bằng không."
+  },
+  {
+   "start": 97.59999999999953,
+   "end": 111.06399999999952,
+   "text": "Vì vậy, phản hồi kỳ vọng ở mức l của nhân tố một và mức k của nhân tố hai bằng: mức chung, cộng hiệu ứng nhân tố một, cộng hiệu ứng nhân tố hai, cộng tương tác. Đây là công thức sáu năm lăm."
+  },
+  {
+   "start": 112.69999999999928,
+   "end": 127.89199999999929,
+   "text": "Tương tác là khái niệm then chốt của mục này. Sự có mặt của tương tác gam-ma l k có nghĩa là hiệu ứng của các nhân tố không cộng dồn được, và nó làm việc diễn giải kết quả phức tạp hơn. Hình 6.3 của sách minh hoạ điều này."
+  },
+  {
+   "start": 128.23333333333255,
+   "end": 147.74533333333255,
+   "text": "Mỗi đường biểu diễn phản hồi kỳ vọng theo các mức của nhân tố hai, ứng với một mức của nhân tố một. Ở hình bê, không có tương tác: các đường song song với nhau. Hiệu ứng của nhân tố hai là như nhau, bất kể nhân tố một ở mức nào. Khoảng cách giữa các đường chính là hiệu ứng của nhân tố một."
+  },
+  {
+   "start": 148.06666666666575,
+   "end": 165.20266666666575,
+   "text": "Ở hình a, có tương tác: các đường không song song, thậm chí cắt nhau. Tác động khi chuyển từ mức này sang mức khác của nhân tố hai phụ thuộc vào việc nhân tố một đang ở mức nào. Khi đó, nói chung chung về hiệu ứng của nhân tố một là không có ý nghĩa rõ ràng."
+  },
+  {
+   "start": 165.53333333333228,
+   "end": 172.80533333333227,
+   "text": "Tóm lại: không có tương tác nghĩa là mọi gam-ma l k bằng không, và trên đồ thị, các đường song song."
+  },
+  {
+   "start": 174.43333333333214,
+   "end": 184.99333333333215,
+   "text": "Tương tự sáu năm lăm, mỗi quan sát được phân tích thành năm phần: trung bình chung; độ lệch của trung bình hàng; độ lệch của trung bình cột; phần tương tác; và phần dư."
+  },
+  {
+   "start": 185.33333333333192,
+   "end": 204.22133333333193,
+   "text": "Ở đây, x ngang là trung bình chung. X ngang l chấm là trung bình ở mức l của nhân tố một. X ngang chấm k là trung bình ở mức k của nhân tố hai. Và x ngang l k là trung bình của ô, tức là ở mức l của nhân tố một và mức k của nhân tố hai."
+  },
+  {
+   "start": 204.56666666666507,
+   "end": 218.07866666666507,
+   "text": "Chú ý phần tương tác: x ngang l k trừ x ngang l chấm, trừ x ngang chấm k, cộng x ngang. Nó đo xem trung bình ô lệch bao nhiêu so với giá trị mà ta dự đoán nếu hai nhân tố chỉ cộng dồn."
+  },
+  {
+   "start": 219.69999999999825,
+   "end": 231.02799999999826,
+   "text": "Trừ x ngang hai vế, bình phương rồi cộng theo l, k và r, các tích chéo đều triệt tiêu. Ta được tổng bình phương toàn phần hiệu chỉnh bằng tổng của bốn phần."
+  },
+  {
+   "start": 231.3666666666647,
+   "end": 239.98266666666473,
+   "text": "Viết gọn: S S cor bằng S S của nhân tố một, cộng S S nhân tố hai, cộng S S tương tác, cộng S S phần dư."
+  },
+  {
+   "start": 240.29999999999794,
+   "end": 250.90799999999794,
+   "text": "Bậc tự do cũng phân tích tương ứng: gờ bê en trừ một, bằng gờ trừ một, cộng bê trừ một, cộng gờ trừ một nhân bê trừ một, cộng gờ bê nhân en trừ một."
+  },
+  {
+   "start": 252.5333333333311,
+   "end": 260.1653333333311,
+   "text": "Bảng a-nô-va hai nhân tố có năm dòng: nhân tố một, nhân tố hai, tương tác, phần dư và toàn phần."
+  },
+  {
+   "start": 260.49999999999795,
+   "end": 273.147999999998,
+   "text": "Các tỉ số ép, lấy trung bình bình phương của nhân tố một, nhân tố hai và tương tác, chia cho trung bình bình phương phần dư, được dùng để kiểm định lần lượt hiệu ứng của nhân tố một, nhân tố hai, và tương tác."
+  }
+ ],
+ "duration": 274.06666666666587
+}

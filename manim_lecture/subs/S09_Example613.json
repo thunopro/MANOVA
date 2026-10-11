@@ -1,0 +1,115 @@
+{
+ "subs": [
+  {
+   "start": 0.7999999999999999,
+   "end": 12.896,
+   "text": "Bây giờ là ví dụ quan trọng nhất của mục 6.7: ví dụ 6.13. Người ta khảo sát điều kiện tối ưu để đùn màng nhựa, bằng một kỹ thuật gọi là Evolutionary Operation."
+  },
+  {
+   "start": 13.233333333333336,
+   "end": 20.433333333333337,
+   "text": "Có ba biến phản hồi được đo: X một là độ bền xé, X hai là độ bóng, và X ba là độ mờ."
+  },
+  {
+   "start": 20.766666666666666,
+   "end": 38.98266666666667,
+   "text": "Chúng được đo ở hai mức của hai nhân tố. Nhân tố một là tốc độ đùn, mức thấp và mức cao. Nhân tố hai là lượng chất phụ gia, mức thấp một phần trăm và mức cao một phẩy năm phần trăm. Phép đo được lặp năm lần ở mỗi tổ hợp, nên có hai mươi quan sát."
+  },
+  {
+   "start": 40.60000000000007,
+   "end": 48.42400000000007,
+   "text": "Đây là bảng 6.4. Mỗi ô ứng với một tổ hợp mức, chứa năm vectơ quan sát gồm ba thành phần."
+  },
+  {
+   "start": 48.76666666666654,
+   "end": 59.99866666666654,
+   "text": "Ví dụ, ô góc trên bên trái là tốc độ đùn thấp và phụ gia thấp. Quan sát đầu tiên có độ bền xé sáu phẩy năm, độ bóng chín phẩy năm và độ mờ bốn phẩy bốn."
+  },
+  {
+   "start": 61.63333333333307,
+   "end": 71.13733333333307,
+   "text": "Các ma trận tổng bình phương và tích chéo được tính bằng phần mềm Sát, cho ta bảng ma-nô-va này. Chỉ in nửa trên vì các ma trận đối xứng."
+  },
+  {
+   "start": 71.46666666666617,
+   "end": 89.56266666666617,
+   "text": "Bậc tự do: nhân tố một có gờ trừ một bằng một. Nhân tố hai có bê trừ một bằng một. Tương tác có một nhân một bằng một. Phần dư có gờ bê nhân en trừ một, bằng hai nhân hai nhân bốn, bằng mười sáu. Và toàn phần là mười chín."
+  },
+  {
+   "start": 89.89999999999945,
+   "end": 109.48399999999945,
+   "text": "Các em nên tự kiểm tra: cộng bốn ma trận nhân tố một, nhân tố hai, tương tác và phần dư, ta được đúng ma trận toàn phần. Ví dụ phần tử đầu tiên: một phẩy bảy bốn không năm, cộng không phẩy bảy sáu không năm, cộng không phẩy không không không năm, cộng một phẩy bảy sáu bốn, bằng bốn phẩy hai sáu năm năm."
+  },
+  {
+   "start": 111.13333333333266,
+   "end": 129.10933333333264,
+   "text": "Đúng theo quy trình, ta kiểm định tương tác trước. Lam-đa sao bằng định thức S S P phần dư là hai trăm bảy mươi lăm phẩy bảy không chín tám, chia định thức của S S P tương tác cộng S S P phần dư là ba trăm năm mươi tư phẩy bảy chín không sáu. Ta được không phẩy bảy bảy bảy một."
+  },
+  {
+   "start": 129.4333333333325,
+   "end": 142.44133333333252,
+   "text": "Vì gờ trừ một nhân bê trừ một bằng một, sách dùng một phép biến đổi có phân phối ép chính xác. Thay số, ta được ép bằng một phẩy ba tư, với nuy một bằng ba và nuy hai bằng mười bốn bậc tự do."
+  },
+  {
+   "start": 142.76666666666563,
+   "end": 160.98266666666564,
+   "text": "Phân vị năm phần trăm của ép ba, mười bốn là ba phẩy ba tư. Vì một phẩy ba tư nhỏ hơn ba phẩy ba tư, ta không bác bỏ giả thuyết không. Kiểm định khi bình phương xấp xỉ cho ba phẩy sáu sáu, nhỏ hơn bảy phẩy tám mốt, cũng đi đến cùng kết luận: không có hiệu ứng tương tác."
+  },
+  {
+   "start": 162.59999999999866,
+   "end": 176.42399999999867,
+   "text": "Không có tương tác, nên ta kiểm định các hiệu ứng chính. Với nhân tố một, lam-đa một sao bằng hai trăm bảy mươi lăm phẩy bảy không chín tám chia bảy trăm hai mươi hai phẩy không hai một hai, bằng không phẩy ba tám một chín."
+  },
+  {
+   "start": 176.7666666666652,
+   "end": 186.6786666666652,
+   "text": "Với nhân tố hai, lam-đa hai sao bằng hai trăm bảy mươi lăm phẩy bảy không chín tám chia năm trăm hai mươi bảy phẩy một ba bốn bảy, bằng không phẩy năm hai ba không."
+  },
+  {
+   "start": 186.9999999999984,
+   "end": 196.5519999999984,
+   "text": "Vì cả gờ trừ một và bê trừ một đều bằng một, các thống kê ép một và ép hai có phân phối ép chính xác, với nuy một bằng ba và nuy hai bằng mười bốn."
+  },
+  {
+   "start": 196.89999999999836,
+   "end": 206.71599999999836,
+   "text": "Thay số: ép một bằng bảy phẩy năm lăm, ép hai bằng bốn phẩy hai sáu. Cả hai đều so với phân vị năm phần trăm là ba phẩy ba tư."
+  },
+  {
+   "start": 208.33333333333138,
+   "end": 231.8773333333314,
+   "text": "Tổng hợp lại. Tương tác: lam-đa không phẩy bảy bảy bảy một, ép một phẩy ba tư, không có ý nghĩa. Nhân tố một: ép bảy phẩy năm lăm, lớn hơn ba phẩy ba tư, ta bác bỏ, có hiệu ứng của tốc độ đùn. Nhân tố hai: ép bốn phẩy hai sáu, lớn hơn ba phẩy ba tư, ta bác bỏ, có hiệu ứng của lượng phụ gia."
+  },
+  {
+   "start": 232.19999999999783,
+   "end": 241.51199999999784,
+   "text": "Kết quả này khớp với bảng in của Sát, với giá trị pê lần lượt là không phẩy ba không một tám, không phẩy không không ba, và không phẩy không hai bốn bảy."
+  },
+  {
+   "start": 241.8333333333311,
+   "end": 256.4973333333311,
+   "text": "Kết luận của sách: cả tốc độ đùn và lượng phụ gia đều ảnh hưởng đến các phản hồi, và chúng tác động theo cách cộng dồn. Bản chất của các hiệu ứng này được khảo sát thêm ở bài tập 6.15, bằng khoảng tin cậy đồng thời cho các tương phản."
+  },
+  {
+   "start": 258.1333333333321,
+   "end": 283.6213333333321,
+   "text": "Bảng in của Sát trong panel 6.1 còn cho kết quả a-nô-va hai nhân tố cho từng biến. Đây là thông tin rất hữu ích khi thuyết trình. Với độ bền xé X một, cả hai nhân tố đều có ý nghĩa. Với độ bóng X hai, nhân tố một có ý nghĩa ở mức năm phần trăm. Còn với độ mờ X ba, không nhân tố nào có ý nghĩa, do phương sai phần dư của X ba rất lớn."
+  },
+  {
+   "start": 283.9666666666662,
+   "end": 296.87866666666616,
+   "text": "Các trung bình theo mức cho thấy chiều hướng: tăng tốc độ đùn làm tăng độ bền xé, từ sáu phẩy bốn chín lên bảy phẩy không tám, nhưng làm giảm độ bóng. Tăng phụ gia làm tăng cả độ bền xé lẫn độ bóng."
+  },
+  {
+   "start": 298.50000000000136,
+   "end": 311.86800000000136,
+   "text": "Cuối cùng, theo gợi ý của sách, ta vẽ đồ thị tương tác giống hình 6.3, nhưng dùng trung bình mẫu của từng ô thay cho giá trị kỳ vọng. Trục ngang là lượng phụ gia, mỗi đường là một mức tốc độ đùn."
+  },
+  {
+   "start": 312.20000000000454,
+   "end": 329.16800000000455,
+   "text": "Với độ bền xé, hai đường gần như song song: không có tương tác, khớp với tổng bình phương tương tác gần bằng không. Với độ bóng và độ mờ, các đường có lệch nhau, nhưng dao động phần dư, đặc biệt của độ mờ, rất lớn, nên tương tác không có ý nghĩa thống kê."
+  }
+ ],
+ "duration": 330.1000000000058
+}

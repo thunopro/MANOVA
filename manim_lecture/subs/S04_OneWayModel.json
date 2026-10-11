@@ -1,0 +1,125 @@
+{
+ "subs": [
+  {
+   "start": 0.0,
+   "end": 7.896,
+   "text": "Phần ba. Mục 6.4: so sánh nhiều vectơ trung bình tổng thể, hay ma-nô-va một nhân tố."
+  },
+  {
+   "start": 10.033333333333326,
+   "end": 24.145333333333326,
+   "text": "Khi cần so sánh nhiều hơn hai tổng thể, ta thu thập mẫu ngẫu nhiên từ mỗi tổng thể trong gờ tổng thể, sắp xếp như sau. Điểm khác so với a-nô-va: mỗi quan sát X đậm l j bây giờ là một vectơ gồm pê biến."
+  },
+  {
+   "start": 25.766666666666712,
+   "end": 37.718666666666714,
+   "text": "Ma-nô-va một nhân tố cần ba giả định. Một: từ mỗi tổng thể l ta có một mẫu ngẫu nhiên cỡ n l, và các mẫu từ những tổng thể khác nhau thì độc lập với nhau."
+  },
+  {
+   "start": 38.06666666666676,
+   "end": 46.22666666666676,
+   "text": "Hai: mọi tổng thể có chung một ma trận hiệp phương sai xích-ma. Ba: mỗi tổng thể có phân phối chuẩn nhiều chiều."
+  },
+  {
+   "start": 46.56666666666665,
+   "end": 52.92666666666665,
+   "text": "Theo sách, điều kiện ba có thể nới lỏng nhờ định lý giới hạn trung tâm, khi các cỡ mẫu đủ lớn."
+  },
+  {
+   "start": 54.56666666666652,
+   "end": 70.26266666666652,
+   "text": "Song song với a-nô-va, mô hình ma-nô-va viết: vectơ quan sát X l j bằng vectơ mức chung muy, cộng hiệu ứng xử lý tau l, cộng sai số e l j. Các sai số độc lập, có phân phối chuẩn pê chiều, trung bình không, hiệp phương sai xích-ma."
+  },
+  {
+   "start": 70.59999999999974,
+   "end": 75.20799999999974,
+   "text": "Ràng buộc vẫn là tổng n l nhân tau l bằng vectơ không."
+  },
+  {
+   "start": 75.53333333333302,
+   "end": 89.23733333333303,
+   "text": "Theo mô hình này, mỗi thành phần của vectơ quan sát thỏa mãn mô hình a-nô-va một biến. Chỗ khác biệt là: sai số giữa các thành phần có tương quan với nhau, nhưng ma trận hiệp phương sai xích-ma là như nhau ở mọi tổng thể."
+  },
+  {
+   "start": 90.86666666666622,
+   "end": 103.99466666666622,
+   "text": "Tương tự sáu ba tư, vectơ quan sát được phân tích thành: vectơ trung bình mẫu chung, cộng ước lượng hiệu ứng xử lý, cộng vectơ phần dư. Mọi thứ giống hệt trước, chỉ là giờ mỗi số hạng là một vectơ."
+  },
+  {
+   "start": 105.63333333333262,
+   "end": 117.44133333333261,
+   "text": "Bây giờ, thay vì bình phương một số, ta lấy tích của vectơ độ lệch với chính chuyển vị của nó. Tích x l j trừ x ngang, nhân chuyển vị, được tách thành bốn số hạng."
+  },
+  {
+   "start": 117.76666666666569,
+   "end": 124.99066666666569,
+   "text": "Khi cộng theo j, hai số hạng ở giữa bằng ma trận không, vì tổng các độ lệch so với trung bình nhóm luôn bằng không."
+  },
+  {
+   "start": 126.33333333333218,
+   "end": 140.8533333333322,
+   "text": "Cộng theo cả l và j, ta được đẳng thức sáu bốn mươi: ma trận tổng bình phương và tích chéo toàn phần, bằng ma trận của xử lý, hay giữa các nhóm, ký hiệu bê, cộng ma trận phần dư, hay trong các nhóm, ký hiệu đáp-bờ-liu."
+  },
+  {
+   "start": 141.19999999999862,
+   "end": 162.79999999999862,
+   "text": "Đặc biệt, ma trận đáp-bờ-liu có thể tính nhanh: bằng n một trừ một nhân S một, cộng n hai trừ một nhân S hai, và cứ thế, với S l là ma trận hiệp phương sai mẫu của nhóm l. Đây là công thức sáu bốn mốt, tổng quát hoá ma trận gộp của trường hợp hai mẫu. Ma trận đáp-bờ-liu đóng vai trò chủ đạo trong kiểm định hiệu ứng xử lý."
+  },
+  {
+   "start": 164.43333333333183,
+   "end": 171.94533333333183,
+   "text": "Ta tóm tắt trong bảng ma-nô-va. Bảng này có đúng hình thức của bảng a-nô-va, từng thành phần một."
+  },
+  {
+   "start": 172.266666666665,
+   "end": 181.482666666665,
+   "text": "Chỉ khác ở chỗ bình phương của các số vô hướng được thay bằng tích của vectơ với chuyển vị của nó. Bậc tự do thì giữ nguyên như trường hợp một biến."
+  },
+  {
+   "start": 183.0999999999982,
+   "end": 194.5239999999982,
+   "text": "Giả thuyết không có hiệu ứng xử lý được kiểm định bằng cách so sánh độ lớn tương đối của ma trận xử lý và ma trận phần dư. Một cách là dùng phương sai tổng quát, tức là định thức."
+  },
+  {
+   "start": 194.86666666666474,
+   "end": 209.67466666666473,
+   "text": "Ta tính lam-đa sao, bằng định thức của đáp-bờ-liu, chia định thức của bê cộng đáp-bờ-liu. Đại lượng này do Uyn-xơ đề xuất, nên gọi là lam-đa Uyn-xơ. Ta bác bỏ giả thuyết không nếu lam-đa quá nhỏ."
+  },
+  {
+   "start": 210.9999999999978,
+   "end": 226.09599999999782,
+   "text": "Vài điểm cần hiểu. Lam-đa sao tương ứng với dạng tương đương sáu ba bảy của kiểm định ép trong a-nô-va. Giá trị của nó nằm giữa không và một: hiệu ứng xử lý càng mạnh thì ma trận bê càng lớn, và lam-đa càng nhỏ."
+  },
+  {
+   "start": 226.43333333333103,
+   "end": 246.88133333333104,
+   "text": "Lam-đa Uyn-xơ thuận tiện và có liên hệ với tiêu chuẩn tỉ số hợp lý. Theo chú thích của sách, nó cũng viết được qua các trị riêng của đáp-bờ-liu nghịch đảo nhân bê. Các phần mềm còn in thêm vết Pi-lai, vết Lo-lây Hô-tơ-linh và nghiệm lớn nhất của Roi. Với mẫu lớn, các thống kê này về cơ bản tương đương."
+  },
+  {
+   "start": 248.49999999999747,
+   "end": 259.49199999999746,
+   "text": "Phân phối chính xác của lam-đa sao đã được tìm ra cho một số trường hợp đặc biệt, liệt kê trong bảng 6.3. Mỗi dòng cho một hàm của lam-đa có phân phối ép chính xác."
+  },
+  {
+   "start": 259.8333333333306,
+   "end": 275.91333333333057,
+   "text": "Ví dụ, khi có hai biến, với số nhóm bất kỳ, ta dùng căn bậc hai của lam-đa, và thống kê có phân phối ép với hai nhân gờ trừ một, và hai nhân tổng n l trừ gờ trừ một bậc tự do. Dòng này sẽ dùng cho ví dụ 6.9."
+  },
+  {
+   "start": 276.23333333333136,
+   "end": 284.53733333333133,
+   "text": "Còn khi có ba nhóm, với số biến bất kỳ, ta dùng dòng cuối. Dòng này sẽ dùng cho ví dụ 6.10."
+  },
+  {
+   "start": 286.1666666666665,
+   "end": 303.08666666666653,
+   "text": "Với các trường hợp khác, và khi cỡ mẫu lớn, Bác-lét đã chỉ ra một xấp xỉ: nếu giả thuyết không đúng và tổng cỡ mẫu en lớn, thì âm của en trừ một trừ pê cộng gờ chia hai, nhân với lốc-a-rít của lam-đa, có phân phối xấp xỉ khi bình phương với pê nhân gờ trừ một bậc tự do."
+  },
+  {
+   "start": 303.43333333333595,
+   "end": 310.53733333333594,
+   "text": "Vậy ta bác bỏ giả thuyết không ở mức an-pha nếu đại lượng này lớn hơn phân vị trên an-pha của phân phối khi bình phương."
+  }
+ ],
+ "duration": 311.46666666667136
+}

@@ -1,0 +1,65 @@
+{
+ "subs": [
+  {
+   "start": 0.0,
+   "end": 12.096,
+   "text": "Phần hai. Trước khi vào ma-nô-va, ta thống nhất các thuật ngữ. Các em nên nắm chắc cả tên tiếng Việt lẫn tên tiếng Anh, vì sách và phần mềm thống kê đều dùng tiếng Anh."
+  },
+  {
+   "start": 14.233333333333327,
+   "end": 27.433333333333326,
+   "text": "Nhóm thứ nhất là các thuật ngữ thiết kế thí nghiệm. Biến phản hồi, response variable, là đại lượng ta đo. Trong ma-nô-va, mỗi quan sát là một vectơ gồm pê biến phản hồi."
+  },
+  {
+   "start": 27.766666666666666,
+   "end": 43.55866666666667,
+   "text": "Nhân tố, factor, là điều kiện thí nghiệm dùng để chia nhóm, ví dụ loại hình sở hữu của viện dưỡng lão, hay tốc độ đùn của máy làm màng nhựa. Mức, level, là một giá trị cụ thể của nhân tố, chẳng hạn tốc độ thấp hay tốc độ cao."
+  },
+  {
+   "start": 43.9000000000001,
+   "end": 59.1640000000001,
+   "text": "Mỗi mức, hoặc mỗi tổ hợp mức khi có hai nhân tố, tạo thành một nhóm, gọi là một xử lý, treatment, hay một tổng thể. Lặp, replication, là số quan sát độc lập ở mỗi tổ hợp mức, sách ký hiệu là en."
+  },
+  {
+   "start": 59.499999999999986,
+   "end": 75.41199999999999,
+   "text": "Lưu ý, sách chú thích rằng chữ nhân tố ở đây chỉ là điều kiện thí nghiệm, không nhầm với nhân tố ẩn trong phân tích nhân tố ở chương chín. Và các mô hình ta học đều là mô hình hiệu ứng cố định: các mức được chọn sẵn, ta chỉ quan tâm đến chính các mức đó."
+  },
+  {
+   "start": 77.03333333333319,
+   "end": 89.60933333333318,
+   "text": "Nhóm thứ hai là các tham số của mô hình. Trung bình chung muy là mức nền. Hiệu ứng xử lý tau l bằng muy l trừ muy, cho biết nhóm l lệch khỏi mức chung bao nhiêu."
+  },
+  {
+   "start": 89.93333333333308,
+   "end": 102.29333333333308,
+   "text": "Khi có hai nhân tố, ta có hiệu ứng chính của nhân tố một là tau l, của nhân tố hai là bê-ta k. Và hiệu ứng tương tác gam-ma l k: tác động của nhân tố này thay đổi tùy theo mức của nhân tố kia."
+  },
+  {
+   "start": 102.63333333333303,
+   "end": 113.79333333333302,
+   "text": "Sai số ngẫu nhiên e có phân phối chuẩn pê chiều, trung bình không, ma trận hiệp phương sai xích-ma. Một giả định quan trọng: xích-ma là như nhau ở mọi nhóm."
+  },
+  {
+   "start": 115.4333333333329,
+   "end": 126.7133333333329,
+   "text": "Nhóm thứ ba là các đại lượng tính toán. Tổng bình phương S S, bậc tự do, và hai khái niệm giữa nhóm, trong nhóm, các em đã gặp ở phần a-nô-va."
+  },
+  {
+   "start": 127.03333333333278,
+   "end": 145.7293333333328,
+   "text": "Trong ma-nô-va, mỗi tổng bình phương được thay bằng một ma trận tổng bình phương và tích chéo, viết tắt S S P. Đường chéo của nó là tổng bình phương của từng biến, còn ngoài đường chéo là tổng các tích chéo giữa hai biến. Ma trận bê là S S P của xử lý, còn ma trận đáp-bờ-liu là S S P phần dư."
+  },
+  {
+   "start": 146.06666666666607,
+   "end": 161.95466666666607,
+   "text": "Để so sánh hai ma trận, ta dùng định thức, gọi là phương sai tổng quát. Và tỉ số giữa định thức của đáp-bờ-liu với định thức của bê cộng đáp-bờ-liu chính là lam-đa Uyn-xơ. Lam-đa nhỏ nghĩa là có hiệu ứng, ta bác bỏ giả thuyết không."
+  },
+  {
+   "start": 163.5999999999992,
+   "end": 177.9999999999992,
+   "text": "Để dễ theo dõi, bài giảng dùng một quy ước màu thống nhất. Màu xanh dương cho trung bình chung, màu vàng cho hiệu ứng xử lý hoặc nhân tố một, màu tím cho nhân tố hai, màu đỏ cho tương tác, và màu xanh lá cho phần dư."
+  }
+ ],
+ "duration": 178.93333333333226
+}

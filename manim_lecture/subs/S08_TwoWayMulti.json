@@ -1,0 +1,95 @@
+{
+ "subs": [
+  {
+   "start": 0.7999999999999999,
+   "end": 14.072000000000001,
+   "text": "Bây giờ, làm tương tự, ta xây dựng mô hình hai nhân tố hiệu ứng cố định cho một phản hồi dạng vectơ gồm pê thành phần. Mô hình giống hệt trường hợp một biến, chỉ khác là mọi thứ giờ là vectơ, in đậm."
+  },
+  {
+   "start": 14.399999999999995,
+   "end": 34.391999999999996,
+   "text": "Các ràng buộc vẫn như cũ, nhưng là vectơ không. Mọi vectơ có cấp pê nhân một. Sai số e l k r độc lập, có phân phối chuẩn pê chiều, trung bình không, hiệp phương sai xích-ma. Như vậy, phản hồi gồm pê phép đo, được lặp en lần ở mỗi tổ hợp mức của hai nhân tố."
+  },
+  {
+   "start": 36.03333333333332,
+   "end": 59.36133333333332,
+   "text": "Theo sáu năm sáu, vectơ quan sát được phân tích thành năm thành phần: trung bình chung, hiệu ứng nhân tố một, hiệu ứng nhân tố hai, tương tác, và phần dư. Ở đây x ngang là trung bình của mọi vectơ quan sát, x ngang l chấm là trung bình ở mức l của nhân tố một, x ngang chấm k là trung bình ở mức k của nhân tố hai, và x ngang l k là trung bình của ô l k."
+  },
+  {
+   "start": 59.69999999999979,
+   "end": 67.59599999999979,
+   "text": "Và một lần nữa, quy tắc tổng quát hoá rất đơn giản: thay mỗi bình phương của số vô hướng bằng tích của vectơ với chuyển vị của nó."
+  },
+  {
+   "start": 69.233333333333,
+   "end": 79.62533333333299,
+   "text": "Tổng quát hoá trực tiếp sáu năm bảy và sáu năm tám, ta có phân tích ma trận tổng bình phương và tích chéo, cùng bậc tự do, tóm tắt trong bảng ma-nô-va hai nhân tố."
+  },
+  {
+   "start": 79.9666666666661,
+   "end": 90.3586666666661,
+   "text": "Ma trận toàn phần bằng tổng của bốn ma trận: nhân tố một, nhân tố hai, tương tác và phần dư. Bậc tự do giữ nguyên như bảng a-nô-va."
+  },
+  {
+   "start": 91.99999999999925,
+   "end": 109.44799999999924,
+   "text": "Giờ đến phần kiểm định. Thông thường, kiểm định tương tác được thực hiện trước, rồi mới đến các hiệu ứng chính. Giả thuyết không là: mọi gam-ma l k bằng vectơ không, tức là không có hiệu ứng tương tác. Đối thuyết là có ít nhất một gam-ma khác không."
+  },
+  {
+   "start": 109.76666666666586,
+   "end": 122.63066666666586,
+   "text": "Kiểm định tỉ số hợp lý bác bỏ giả thuyết không khi lam-đa sao nhỏ. Ở đây, lam-đa sao bằng định thức của S S P phần dư, chia định thức của S S P tương tác cộng S S P phần dư."
+  },
+  {
+   "start": 122.96666666666574,
+   "end": 139.95866666666575,
+   "text": "Với mẫu lớn, dùng hệ số hiệu chỉnh của Bác-lét: ta bác bỏ nếu âm của, gờ bê nhân en trừ một, trừ pê cộng một trừ gờ trừ một nhân bê trừ một, tất cả chia hai, nhân với lốc lam-đa, lớn hơn phân vị khi bình phương với gờ trừ một nhân bê trừ một nhân pê bậc tự do."
+  },
+  {
+   "start": 140.29999999999893,
+   "end": 148.07599999999894,
+   "text": "Lưu ý chú thích của sách: kiểm định này đòi hỏi pê không vượt quá gờ bê nhân en trừ một, để ma trận phần dư xác định dương."
+  },
+  {
+   "start": 149.6999999999988,
+   "end": 159.0359999999988,
+   "text": "Vì sao phải kiểm định tương tác trước? Sách giải thích: nếu tồn tại hiệu ứng tương tác, các hiệu ứng nhân tố không có một diễn giải rõ ràng."
+  },
+  {
+   "start": 159.3666666666654,
+   "end": 186.3186666666654,
+   "text": "Khi đó, về mặt thực hành, không nên tiến hành thêm các kiểm định đa biến. Thay vào đó, người ta thường làm pê phân tích a-nô-va hai nhân tố, mỗi biến một lần, để xem tương tác xuất hiện ở những biến phản hồi nào. Những biến không có tương tác có thể diễn giải theo hiệu ứng cộng dồn của nhân tố một và hai, nếu các hiệu ứng này tồn tại. Đồ thị tương tác giống hình 6.3, nhưng dùng trung bình mẫu, giúp làm rõ nhất."
+  },
+  {
+   "start": 186.66666666666535,
+   "end": 194.34666666666536,
+   "text": "Ngược lại, nếu không có tương tác, hiệu ứng của hai nhân tố cộng dồn, và ta chuyển sang kiểm định các hiệu ứng chính."
+  },
+  {
+   "start": 195.96666666666522,
+   "end": 220.18266666666523,
+   "text": "Trong mô hình nhiều chiều, hiệu ứng chính của nhân tố một được kiểm định với giả thuyết không: mọi tau l bằng không. Ta tính lam-đa sao bằng định thức S S P phần dư, chia định thức của S S P nhân tố một cộng S S P phần dư. Lam-đa nhỏ ủng hộ đối thuyết. Với hiệu chỉnh Bác-lét, ta bác bỏ nếu thống kê lớn hơn khi bình phương với gờ trừ một nhân pê bậc tự do."
+  },
+  {
+   "start": 220.49999999999827,
+   "end": 229.21199999999826,
+   "text": "Hoàn toàn tương tự cho nhân tố hai: thay S S P nhân tố một bằng S S P nhân tố hai, và bậc tự do là bê trừ một nhân pê."
+  },
+  {
+   "start": 230.83333333333124,
+   "end": 249.09733333333125,
+   "text": "Khi bác bỏ giả thuyết về hiệu ứng chính, ta muốn biết cụ thể khác nhau ở đâu. Khi tương tác không đáng kể, ta tập trung vào các tương phản của hiệu ứng chính. Phương pháp Bôn-phe-rô-ni áp dụng cho từng thành phần của hiệu tau l trừ tau m, và bê-ta k trừ bê-ta q."
+  },
+  {
+   "start": 249.43333333333095,
+   "end": 259.63333333333094,
+   "text": "Trong đó nuy bằng gờ bê nhân en trừ một, E i i là phần tử đường chéo thứ i của ma trận phần dư, và hiệu trung bình là thành phần thứ i của hiệu hai vectơ trung bình."
+  },
+  {
+   "start": 261.2666666666652,
+   "end": 281.69066666666515,
+   "text": "Một nhận xét cuối của sách. Mô hình ta vừa học có en lần lặp ở mỗi tổ hợp mức, nhờ vậy mới khảo sát được tương tác. Nếu mỗi tổ hợp chỉ có một vectơ quan sát, mô hình hai nhân tố không cho phép có số hạng tương tác tổng quát. Khi đó bảng ma-nô-va chỉ gồm nhân tố một, nhân tố hai và phần dư."
+  }
+ ],
+ "duration": 282.6333333333355
+}

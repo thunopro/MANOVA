@@ -1,0 +1,45 @@
+{
+ "subs": [
+  {
+   "start": 0.0,
+   "end": 9.864,
+   "text": "Chào các em. Hôm nay chúng ta sẽ học một chủ đề rất quan trọng trong thống kê nhiều chiều: phân tích phương sai đa biến, thường gọi tắt là ma-nô-va."
+  },
+  {
+   "start": 10.200000000000003,
+   "end": 26.808000000000003,
+   "text": "Toàn bộ bài giảng bám sát chương sáu của cuốn sách Applied Multivariate Statistical Analysis của Johnson và Wichern, bản thứ sáu. Cụ thể là mục 6.4 về ma-nô-va một nhân tố, và nội dung chính là mục 6.7, ma-nô-va hai nhân tố."
+  },
+  {
+   "start": 28.533333333333402,
+   "end": 38.4693333333334,
+   "text": "Bài giảng gồm năm phần. Đầu tiên, ta ôn lại phân tích phương sai một biến, a-nô-va, vì ma-nô-va chính là sự mở rộng của nó."
+  },
+  {
+   "start": 38.80000000000012,
+   "end": 48.280000000000115,
+   "text": "Thứ hai, ta thống nhất các thuật ngữ. Thứ ba, ta học mục 6.4, ma-nô-va một nhân tố, với hai ví dụ trong sách."
+  },
+  {
+   "start": 48.6,
+   "end": 60.84,
+   "text": "Thứ tư, là phần trọng tâm: ma-nô-va hai nhân tố có tương tác, cùng ví dụ 6.13 về màng nhựa. Cuối cùng, ta tổng kết quy trình để các em tự thực hành và thuyết trình lại."
+  },
+  {
+   "start": 62.56666666666648,
+   "end": 71.15866666666648,
+   "text": "Tại sao cần ma-nô-va? Trong a-nô-va, mỗi quan sát chỉ là một con số, và ta so sánh trung bình của gờ nhóm."
+  },
+  {
+   "start": 71.49999999999976,
+   "end": 88.61199999999975,
+   "text": "Nhưng trong thực tế, trên mỗi đơn vị thí nghiệm ta thường đo nhiều biến cùng lúc. Ví dụ với màng nhựa, ta đo cả độ bền xé, độ bóng và độ mờ. Khi đó mỗi quan sát là một vectơ pê thành phần, và câu hỏi trở thành: các vectơ trung bình có bằng nhau không?"
+  },
+  {
+   "start": 88.93333333333304,
+   "end": 103.45333333333303,
+   "text": "Theo sách, ma-nô-va được dùng trước hết để xem các vectơ trung bình tổng thể có như nhau không, và nếu không thì những thành phần nào khác nhau đáng kể. Ma-nô-va xét đồng thời mọi biến và cả tương quan giữa chúng, thay vì làm rời rạc từng biến."
+  }
+ ],
+ "duration": 104.39999999999961
+}

@@ -1,0 +1,25 @@
+{
+ "subs": [
+  {
+   "start": 0.7999999999999999,
+   "end": 9.8,
+   "text": "Ví dụ 6.13: màng nhựa đo ba biến, theo tốc độ đùn và lượng phụ gia. Ngưỡng ép là ba phẩy ba tư."
+  },
+  {
+   "start": 10.133333333333336,
+   "end": 15.341333333333337,
+   "text": "Bước một, tương tác: ép chỉ một phẩy ba tư, không có ý nghĩa."
+  },
+  {
+   "start": 15.666666666666666,
+   "end": 25.458666666666666,
+   "text": "Bước hai, hiệu ứng chính: tốc độ đùn, ép bảy phẩy năm lăm; phụ gia, ép bốn phẩy hai sáu. Cả hai đều có ý nghĩa."
+  },
+  {
+   "start": 26.40000000000011,
+   "end": 36.76800000000011,
+   "text": "Kết luận: cả hai nhân tố đều ảnh hưởng, theo cách cộng dồn. Đó là toàn bộ logic: lập bảng, kiểm định tương tác, rồi hiệu ứng chính."
+  }
+ ],
+ "duration": 39.10000000000023
+}

@@ -1,0 +1,55 @@
+{
+ "subs": [
+  {
+   "start": 0.0,
+   "end": 12.648,
+   "text": "Phần một. Tổng quan về phân tích phương sai một biến, một nhân tố. Đây là nền móng, vì sách nói rõ: ôn lại a-nô-va sẽ giúp ta hiểu các giả định và phương pháp nhiều chiều."
+  },
+  {
+   "start": 14.76666666666666,
+   "end": 31.014666666666663,
+   "text": "Giả sử ta có gờ tổng thể. Từ tổng thể thứ l, ta lấy một mẫu ngẫu nhiên cỡ n l, các quan sát có phân phối chuẩn với trung bình muy l và cùng phương sai xích-ma bình phương. Các mẫu từ những tổng thể khác nhau thì độc lập với nhau."
+  },
+  {
+   "start": 31.33333333333341,
+   "end": 38.84533333333341,
+   "text": "Câu hỏi: các trung bình có bằng nhau không? Giả thuyết không là muy một bằng muy hai, cho tới muy gờ."
+  },
+  {
+   "start": 40.466666666666626,
+   "end": 48.530666666666626,
+   "text": "Thay vì làm việc trực tiếp với muy l, ta tách nó thành hai phần: một mức chung muy, cộng với độ lệch muy l trừ muy."
+  },
+  {
+   "start": 48.86666666666657,
+   "end": 55.85066666666657,
+   "text": "Độ lệch đó ta đặt tên là tau l, gọi là hiệu ứng của tổng thể thứ l, hay hiệu ứng xử lý."
+  },
+  {
+   "start": 57.19999999999979,
+   "end": 72.15199999999979,
+   "text": "Vì các tổng thể thường tương ứng với các điều kiện thí nghiệm khác nhau, nên xét hiệu ứng tau l rất tiện. Giả thuyết các trung bình bằng nhau trở thành: mọi hiệu ứng tau đều bằng không. Nghĩa là, không có hiệu ứng xử lý nào."
+  },
+  {
+   "start": 73.7999999999996,
+   "end": 84.4079999999996,
+   "text": "Từ đó, mỗi quan sát X l j được viết dưới dạng gợi ý: bằng trung bình chung muy, cộng hiệu ứng xử lý tau l, cộng sai số ngẫu nhiên e l j."
+  },
+  {
+   "start": 84.73333333333282,
+   "end": 99.34933333333282,
+   "text": "Các sai số e l j độc lập, có phân phối chuẩn trung bình không, phương sai xích-ma bình phương. Để các tham số được xác định duy nhất, người ta đặt thêm ràng buộc: tổng có trọng số n l nhân tau l bằng không."
+  },
+  {
+   "start": 100.96666666666597,
+   "end": 114.52666666666597,
+   "text": "Tương ứng với mô hình, ta phân tích chính dữ liệu quan sát. Mỗi giá trị x l j bằng trung bình mẫu chung x ngang, cộng với x ngang l trừ x ngang, cộng với x l j trừ x ngang l."
+  },
+  {
+   "start": 114.86666666666578,
+   "end": 132.7706666666658,
+   "text": "Trong đó x ngang ước lượng muy, x ngang l trừ x ngang ước lượng hiệu ứng tau l, và x l j trừ x ngang l ước lượng sai số. Đây là công thức sáu ba tư, các em cần nhớ thật kỹ, vì cả ma-nô-va một nhân tố lẫn hai nhân tố đều xây dựng trên ý tưởng này."
+  }
+ ],
+ "duration": 133.69999999999897
+}

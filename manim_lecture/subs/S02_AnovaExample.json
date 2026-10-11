@@ -1,0 +1,100 @@
+{
+ "subs": [
+  {
+   "start": 0.7999999999999999,
+   "end": 16.928,
+   "text": "Hãy làm cụ thể với ví dụ 6.7 trong sách. Có ba tổng thể, với các mẫu độc lập: tổng thể một gồm chín, sáu, chín. Tổng thể hai gồm không và hai. Tổng thể ba gồm ba, một, hai."
+  },
+  {
+   "start": 17.266666666666666,
+   "end": 24.754666666666665,
+   "text": "Trung bình từng nhóm lần lượt là tám, một và hai. Trung bình chung của cả tám quan sát là bốn."
+  },
+  {
+   "start": 25.10000000000018,
+   "end": 38.68400000000018,
+   "text": "Lấy thử quan sát đầu tiên của tổng thể ba, x ba một bằng ba. Ta viết: ba bằng bốn, cộng hai trừ bốn, cộng ba trừ hai. Tức là bốn, cộng âm hai, cộng một."
+  },
+  {
+   "start": 39.63333333333368,
+   "end": 49.61733333333368,
+   "text": "Làm như vậy với mọi quan sát, ta được bốn mảng số. Mảng quan sát bằng mảng trung bình, cộng mảng hiệu ứng xử lý, cộng mảng phần dư."
+  },
+  {
+   "start": 49.96666666666673,
+   "end": 62.758666666666734,
+   "text": "Câu hỏi các trung bình có bằng nhau không, được trả lời bằng cách xem: đóng góp của mảng hiệu ứng xử lý có lớn so với mảng phần dư hay không. Nếu đóng góp của xử lý lớn, ta bác bỏ giả thuyết không."
+  },
+  {
+   "start": 64.09999999999995,
+   "end": 76.09999999999995,
+   "text": "Độ lớn của một mảng được đo bằng tổng bình phương, viết tắt S S: xếp các phần tử thành một vectơ rồi tính bình phương độ dài của nó. Với mảng quan sát, ta được hai trăm mười sáu."
+  },
+  {
+   "start": 76.43333333333311,
+   "end": 86.17733333333311,
+   "text": "Tương tự, tổng bình phương của trung bình là một trăm hai mươi tám. Của xử lý là bảy mươi tám. Và của phần dư là mười."
+  },
+  {
+   "start": 87.0999999999994,
+   "end": 96.31599999999939,
+   "text": "Điều thú vị là các tổng bình phương cũng phân tích giống hệt như các quan sát: hai trăm mười sáu bằng một trăm hai mươi tám, cộng bảy mươi tám, cộng mười."
+  },
+  {
+   "start": 96.63333333333262,
+   "end": 112.56933333333262,
+   "text": "Nếu chuyển tổng bình phương của trung bình sang vế trái, ta có tổng bình phương toàn phần đã hiệu chỉnh, bằng tám mươi tám, chính là bảy mươi tám cộng mười. Nếu giả thuyết không đúng, thì phương sai tính từ S S xử lý và từ S S phần dư phải xấp xỉ nhau."
+  },
+  {
+   "start": 114.1999999999991,
+   "end": 129.7039999999991,
+   "text": "Tổng quát hoá, ta lấy công thức sáu ba tư, trừ x ngang hai vế, bình phương, rồi cộng theo mọi j và mọi l. Do tổng các độ lệch x l j trừ x ngang l trong mỗi nhóm bằng không, nên tích chéo biến mất, và ta có đẳng thức sáu ba năm."
+  },
+  {
+   "start": 130.03333333333225,
+   "end": 147.00133333333224,
+   "text": "Tổng bình phương toàn phần hiệu chỉnh, bằng tổng bình phương giữa các mẫu, cộng tổng bình phương trong các mẫu. Giữa các mẫu, tiếng Anh là between, phản ánh khác biệt giữa các nhóm. Trong các mẫu, within, phản ánh dao động ngẫu nhiên bên trong mỗi nhóm."
+  },
+  {
+   "start": 147.3333333333322,
+   "end": 169.43733333333222,
+   "text": "Về bậc tự do: S S xử lý có gờ trừ một bậc tự do, S S phần dư có tổng n l trừ gờ bậc tự do, và tổng là tổng n l trừ một. Sách giải thích bằng hình học: các mảng trung bình, xử lý và phần dư, xem như các vectơ, thì vuông góc với nhau, và số chiều của không gian mà mỗi vectơ được tự do nằm trong chính là số bậc tự do."
+  },
+  {
+   "start": 171.0666666666654,
+   "end": 180.0426666666654,
+   "text": "Các kết quả được tóm tắt gọn trong bảng a-nô-va: ba dòng là xử lý, phần dư và toàn phần, mỗi dòng có tổng bình phương và bậc tự do."
+  },
+  {
+   "start": 180.36666666666525,
+   "end": 196.75866666666525,
+   "text": "Kiểm định ép thông thường bác bỏ giả thuyết không ở mức an-pha nếu tỉ số ép, bằng S S xử lý chia gờ trừ một, trên S S phần dư chia tổng n l trừ gờ, lớn hơn phân vị trên an-pha của phân phối ép với gờ trừ một và tổng n l trừ gờ bậc tự do."
+  },
+  {
+   "start": 198.39999999999833,
+   "end": 213.85599999999832,
+   "text": "Áp dụng cho ví dụ 6.7, ta có ví dụ 6.8. S S xử lý bằng bảy mươi tám với hai bậc tự do. S S phần dư bằng mười với năm bậc tự do. Toàn phần bằng tám mươi tám với bảy bậc tự do."
+  },
+  {
+   "start": 214.19999999999828,
+   "end": 220.05599999999828,
+   "text": "Tỉ số ép bằng bảy mươi tám chia hai, trên mười chia năm, bằng mười chín phẩy năm."
+  },
+  {
+   "start": 220.39999999999816,
+   "end": 232.71199999999817,
+   "text": "So với phân vị ép hai, năm ở mức một phần trăm là mười ba phẩy hai bảy. Vì mười chín phẩy năm lớn hơn, ta bác bỏ giả thuyết không có hiệu ứng xử lý, ở mức ý nghĩa một phần trăm."
+  },
+  {
+   "start": 234.33333333333124,
+   "end": 248.27733333333123,
+   "text": "Kiểm định ép tương đương với bác bỏ khi tỉ số S S xử lý trên S S phần dư lớn. Và điều này lại tương đương với bác bỏ khi đại lượng nghịch đảo: S S phần dư chia cho S S phần dư cộng S S xử lý, là nhỏ."
+  },
+  {
+   "start": 248.59999999999775,
+   "end": 259.9999999999977,
+   "text": "Hãy nhớ đại lượng này. Trong trường hợp nhiều chiều, các con số bình phương sẽ được thay bằng ma trận, và tỉ số này trở thành lam-đa Uyn-xơ, công cụ trung tâm của ma-nô-va."
+  }
+ ],
+ "duration": 260.93333333333146
+}

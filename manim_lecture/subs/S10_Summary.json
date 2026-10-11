@@ -1,0 +1,50 @@
+{
+ "subs": [
+  {
+   "start": 0.0,
+   "end": 7.32,
+   "text": "Phần năm. Ta tổng kết lại toàn bộ bài, và rút ra quy trình để các em tự thực hành và thuyết trình."
+  },
+  {
+   "start": 9.466666666666661,
+   "end": 37.06666666666666,
+   "text": "Bảng này so sánh ba mô hình. Từ a-nô-va sang ma-nô-va, quan sát trở thành vectơ, tổng bình phương trở thành ma trận tổng bình phương và tích chéo, và tỉ số ép được thay bằng lam-đa Uyn-xơ, là tỉ số của hai định thức. Với hai nhân tố, ta có thêm nhân tố thứ hai và số hạng tương tác. Trong công thức lam-đa, S S P H là ma trận của hiệu ứng cần kiểm định: nhân tố một, nhân tố hai, hoặc tương tác."
+  },
+  {
+   "start": 38.6999999999999,
+   "end": 58.619999999999905,
+   "text": "Đây là quy trình sáu bước để làm một bài ma-nô-va hai nhân tố. Bước một: mô tả bài toán, xác định số biến pê, số mức gờ và bê, số lần lặp en, và kiểm tra pê không vượt quá gờ bê nhân en trừ một. Bước hai: tính các vectơ trung bình chung, trung bình hàng, trung bình cột và trung bình ô."
+  },
+  {
+   "start": 58.966666666666455,
+   "end": 72.74266666666645,
+   "text": "Bước ba: lập bảng ma-nô-va và kiểm tra tổng các ma trận bằng ma trận toàn phần. Bước bốn: luôn kiểm định tương tác trước, bằng lam-đa Uyn-xơ, với phân phối ép chính xác hoặc xấp xỉ khi bình phương của Bác-lét."
+  },
+  {
+   "start": 73.06666666666634,
+   "end": 89.81866666666633,
+   "text": "Bước năm: nếu không có tương tác, kiểm định hiệu ứng chính của từng nhân tố. Nếu có tương tác, làm a-nô-va cho từng biến và vẽ đồ thị tương tác. Bước sáu: diễn giải bằng khoảng tin cậy Bôn-phe-rô-ni, và kiểm tra các giả định qua phần dư."
+  },
+  {
+   "start": 91.46666666666614,
+   "end": 109.89866666666614,
+   "text": "Khi thuyết trình, các em nên nói được bằng lời của mình những ý sau. Ma-nô-va chính là a-nô-va cho vectơ. Lam-đa Uyn-xơ là tỉ số các phương sai tổng quát, lam-đa nhỏ nghĩa là hiệu ứng lớn. Tương tác nghĩa là các đường không song song, và phải kiểm định nó trước."
+  },
+  {
+   "start": 110.23333333333264,
+   "end": 126.16933333333264,
+   "text": "Hãy tự làm tay ví dụ 6.9 để hiểu bản chất các ma trận bê và đáp-bờ-liu. Trình bày ví dụ 6.13 theo đúng trình tự: dữ liệu, bảng ma-nô-va, kiểm định tương tác, rồi hiệu ứng chính, và kết luận gắn với ngữ cảnh thực tế."
+  },
+  {
+   "start": 127.79999999999906,
+   "end": 154.60799999999907,
+   "text": "Để thực hành, đi kèm video là file Python tên thuc hanh manova. Nó tính lại ví dụ 6.9 bằng công thức, và ví dụ 6.13 bằng cả công thức lẫn thư viện stats-models. Lệnh ma-nô-va from formula với công thức x một cộng x hai cộng x ba theo f một nhân f hai cho ra đúng các giá trị lam-đa và ép như trong sách: không phẩy ba tám một chín, không phẩy năm hai ba không, và không phẩy bảy bảy bảy một."
+  },
+  {
+   "start": 155.53333333333228,
+   "end": 167.7973333333323,
+   "text": "Bài giảng đến đây là kết thúc. Các em hãy làm thêm bài tập 6.13 và 6.15 trong sách để củng cố. Cảm ơn các em đã theo dõi, và chúc các em học tốt."
+  }
+ ],
+ "duration": 170.63333333333213
+}

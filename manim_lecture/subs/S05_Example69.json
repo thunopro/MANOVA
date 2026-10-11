@@ -1,0 +1,70 @@
+{
+ "subs": [
+  {
+   "start": 0.7999999999999999,
+   "end": 16.184,
+   "text": "Bây giờ làm ví dụ 6.9. Ta lấy lại dữ liệu ví dụ 6.7, nhưng mỗi quan sát có thêm một biến thứ hai. Cỡ mẫu vẫn là ba, hai và ba. Mỗi quan sát giờ là một vectơ hai thành phần."
+  },
+  {
+   "start": 16.53333333333333,
+   "end": 24.76533333333333,
+   "text": "Vectơ trung bình các nhóm là tám bốn, một hai, và hai tám. Vectơ trung bình chung là bốn, năm."
+  },
+  {
+   "start": 25.70000000000016,
+   "end": 37.77200000000016,
+   "text": "Với biến thứ nhất, ta đã có phân tích từ ví dụ 6.7: hai trăm mười sáu bằng một trăm hai mươi tám, cộng bảy mươi tám, cộng mười. Tổng bình phương hiệu chỉnh là tám mươi tám."
+  },
+  {
+   "start": 38.10000000000031,
+   "end": 54.73200000000031,
+   "text": "Lặp lại cho biến thứ hai. Trung bình chung là năm, hiệu ứng xử lý của ba nhóm là âm một, âm ba và ba. Ta được hai trăm bảy mươi hai bằng hai trăm, cộng bốn mươi tám, cộng hai mươi bốn. Tổng hiệu chỉnh là bảy mươi hai."
+  },
+  {
+   "start": 56.36666666666673,
+   "end": 68.31866666666673,
+   "text": "Hai phân tích một biến này phải được bổ sung bằng tổng các tích chéo, để hoàn thiện bảng ma-nô-va. Ta đi từng hàng trong các mảng của hai biến, nhân phần tử tương ứng, rồi cộng lại."
+  },
+  {
+   "start": 68.66666666666667,
+   "end": 83.93066666666667,
+   "text": "Với mảng xử lý: ba nhân bốn nhân âm một, cộng hai nhân âm ba nhân âm ba, cộng ba nhân âm hai nhân ba, bằng âm mười hai. Với mảng phần dư, ta được một. Tổng tích chéo toàn phần là một trăm bốn mươi chín."
+  },
+  {
+   "start": 84.2666666666665,
+   "end": 91.9226666666665,
+   "text": "Lấy một trăm bốn mươi chín trừ đi tích chéo của trung bình là một trăm sáu mươi, ta được tích chéo toàn phần hiệu chỉnh bằng âm mười một."
+  },
+  {
+   "start": 93.56666666666636,
+   "end": 113.07866666666636,
+   "text": "Đưa tất cả vào bảng ma-nô-va. Đường chéo của mỗi ma trận là tổng bình phương từng biến, ngoài đường chéo là tích chéo. Ma trận xử lý bê là bảy tám, âm mười hai, âm mười hai, bốn tám. Ma trận phần dư đáp-bờ-liu là mười, một, một, hai mươi bốn."
+  },
+  {
+   "start": 113.3999999999995,
+   "end": 118.91999999999949,
+   "text": "Kiểm tra lại đẳng thức sáu bốn mươi: ma trận toàn phần đúng bằng bê cộng đáp-bờ-liu."
+  },
+  {
+   "start": 120.56666666666597,
+   "end": 136.45466666666596,
+   "text": "Tính lam-đa Uyn-xơ: định thức của đáp-bờ-liu là mười nhân hai mươi bốn trừ một, bằng hai trăm ba mươi chín. Định thức của ma trận toàn phần là sáu nghìn hai trăm mười lăm. Vậy lam-đa sao bằng không phẩy không ba tám năm, rất nhỏ."
+  },
+  {
+   "start": 136.79999999999913,
+   "end": 148.89599999999913,
+   "text": "Vì pê bằng hai và gờ bằng ba, bảng 6.3 cho ta một kiểm định chính xác, giả định phân phối chuẩn và ma trận hiệp phương sai bằng nhau. Thống kê kiểm định bằng tám phẩy một chín."
+  },
+  {
+   "start": 149.23333333333227,
+   "end": 167.35333333333227,
+   "text": "Phân phối ép có bậc tự do nuy một bằng hai nhân gờ trừ một bằng bốn, và nuy hai bằng tám. Phân vị một phần trăm là bảy phẩy không một. Vì tám phẩy một chín lớn hơn bảy phẩy không một, ta bác bỏ giả thuyết không ở mức một phần trăm, và kết luận có sự khác biệt giữa các xử lý."
+  },
+  {
+   "start": 168.99999999999864,
+   "end": 189.27999999999864,
+   "text": "Một lời khuyên thực hành từ sách: khi số biến lớn, người ta thường không lập bảng ma-nô-va đầy đủ. Tuy vậy, vẫn nên cho máy tính in ra ma trận bê và đáp-bờ-liu để thấy các phần tử lớn. Đồng thời, các vectơ phần dư nên được kiểm tra tính chuẩn và điểm ngoại lai, bằng các kỹ thuật ở mục 4.6 và 4.7."
+  }
+ ],
+ "duration": 190.19999999999843
+}

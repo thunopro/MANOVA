@@ -1,0 +1,12 @@
+# Môi trường ảo / cache
+.menv/
+__pycache__/
+*.pyc
+
+# File sinh ra khi render (nặng)
+manim_lecture/media/
+manim_lecture/voice_cache/
+
+# Video, tài liệu bản quyền
+*.mp4
+*.pdf

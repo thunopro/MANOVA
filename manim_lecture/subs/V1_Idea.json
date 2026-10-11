@@ -1,0 +1,35 @@
+{
+ "subs": [
+  {
+   "start": 0.0,
+   "end": 6.84,
+   "text": "Ma-nô-va trong hai phút: từ a-nô-va, đến ma-nô-va một nhân tố, rồi hai nhân tố."
+  },
+  {
+   "start": 8.566666666666663,
+   "end": 15.934666666666663,
+   "text": "Ba nhóm số liệu. Câu hỏi: trung bình các nhóm có khác nhau thật không, hay chỉ do ngẫu nhiên?"
+  },
+  {
+   "start": 16.266666666666655,
+   "end": 26.490666666666655,
+   "text": "A-nô-va tách biến thiên thành hai phần: giữa các nhóm và trong nhóm. Phần giữa nhóm lớn hơn hẳn, tỉ số ép lớn, thì các nhóm khác nhau."
+  },
+  {
+   "start": 28.23333333333354,
+   "end": 37.73733333333354,
+   "text": "Khi đo nhiều biến cùng lúc, ta dùng ma-nô-va: con số thành vectơ, bình phương thành ma trận, và hai tổng bình phương thành hai ma trận bê và đáp-bờ-liu."
+  },
+  {
+   "start": 38.06666666666699,
+   "end": 45.86666666666699,
+   "text": "So sánh chúng bằng định thức, ta được lam-đa Uyn-xơ. Lam-đa càng nhỏ, khác biệt càng rõ."
+  },
+  {
+   "start": 47.500000000000135,
+   "end": 56.93200000000014,
+   "text": "Ví dụ 6.9: lam-đa chỉ không phẩy không ba tám năm, ép tám phẩy một chín vượt ngưỡng bảy phẩy không một. Ba nhóm khác nhau."
+  }
+ ],
+ "duration": 57.86666666666654
+}
